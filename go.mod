@@ -1,1 +1,2 @@
-module mvdan.cc/xurls/v2
+module github.com/hpidcock/xurls
+
